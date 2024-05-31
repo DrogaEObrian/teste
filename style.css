@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(226, 226, 210);
+}
+
+h1 {
+    text-align: center;
+}
+.l1 {
+    text-align: center;
+}
+
+.l2{
+    text-align: center;
+}
+
+button {
+    padding: 10px;
+    margin-left: 650px;
+    color: black;
+    background-color: red;
+}
